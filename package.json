@@ -1,10 +1,10 @@
 {
-  "name": "nya-bootstrap-select",
-  "version": "1.2.7",
+  "name": "ng-selectpicker",
+  "version": "1.2.7.1",
   "description": "An angular directive wraps bootstrap-select",
   "repository": {
     "type": "git",
-    "url": "git://github.com/lordfriend/nya-bootstrap-select.git"
+    "url": "git://github.com/tdascoli/ng-selectpicker.git"
   },
   "devDependencies": {
     "grunt": "~0.4.2",

@@ -1,13 +1,14 @@
 {
-  "name": "nya-bootstrap-select",
-  "version": "1.2.7",
+  "name": "ng-selectpicker",
+  "version": "1.2.7.1",
   "main": "src/nya-bootstrap-select.js",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
-    "examples"
+    "examples",
+    "tests"
   ],
   "dependencies": {
     "angular": "*",
@@ -16,5 +17,14 @@
   "devDependencies": {
     "bootstrap-css": "~3.0",
     "angular-mocks": "*"
-  }
+  },
+  "homepage": "https://github.com/tdascoli/ng-selectpicker",
+  "authors": [
+    "Thomas D'Ascoli <thomas@dasco.li>"
+  ],
+  "keywords": [
+    "selectpicker",
+    "bootstrap-select"
+  ],
+  "license": "MIT"
 }
