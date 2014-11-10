@@ -1,6 +1,6 @@
 {
   "name": "ng-selectpicker",
-  "version": "1.2.7.1",
+  "version": "1.2.7.2",
   "main": "src/nya-bootstrap-select.js",
   "ignore": [
     "**/.*",
@@ -12,7 +12,7 @@
   ],
   "dependencies": {
     "angular": "*",
-    "bootstrap-select": "<1.6.0"
+    "bootstrap-select": "1.5.4"
   },
   "devDependencies": {
     "bootstrap-css": "~3.0",
